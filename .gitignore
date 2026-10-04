@@ -1,0 +1,22 @@
+## Visual Studio Cache & User files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+## Test & Temporary files
+*.tmp
+*.log
+*.bak
+[Tt]emp/
+TestResults/
